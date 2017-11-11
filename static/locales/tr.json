@@ -1,31 +1,31 @@
 {
   "website":{
-    "title": "Abed's blog"
+    "title": "Abed Hadri Blogu"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
+    "home": "Ana Sayfa",
+    "about_me": "Hakkımda",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "career": "İş Tecrübesi",
     "blog": "Blog",
-    "link": "Links"
+    "link": "Bağlantılar"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "A passionate Full stack developer with big dreams and ambitions. Writing and structuring quality code is a not just a source of living; it is the thing that excites me and pulls me away from this world.<br>Apart from software I enjoy travelling and playing some guitar!"
+    "about_me": "Hakkımda",
+    "des": "Yazılım sektörüne 2 yıl önce Full stack developer olarak girdikten sonra büyük projeler yapmaya başardım. Şuan planlarımı genişletmek adına Istanbul'a taşınmak için fırsat arıyorum."
   },
   "skills":{
-    "my_skills": "Skills"
+    "my_skills": "Yeteneklerim"
   },
   "projects":{
-    "my_projects": "Projects",
+    "my_projects": "Projelerim",
     "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
     "cpython": "This project is other's project. I use another request to get repo's information.",
     "familycode": "This is another project."
   },
   "career":{
-    "my_career": "Career",
+    "my_career": "İş Tecrübem",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",

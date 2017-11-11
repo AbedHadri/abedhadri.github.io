@@ -1,31 +1,31 @@
 {
   "website":{
-    "title": "Abed Hadri Blogu"
+    "title": "المهندس عابد حاضري"
   },
   "nav":{
-    "home": "Ana Sayfa",
-    "about_me": "Hakkımda",
-    "skills": "Yetenekler",
-    "projects": "Projeler",
-    "career": "İş Tecrübesi",
-    "blog": "Blog",
-    "link": "Link"
+    "home": "الصفحة الرئيسية",
+    "about_me": "عني",
+    "skills": "المهارات",
+    "projects": "المشاريع",
+    "career": "المسيرة المهنية",
+    "blog": "المدونة",
+    "link": "روابط"
   },
   "about_me":{
-    "about_me": "Hakkımda",
-    "des": "Yazılım sektörüne 2 yıl önce Full stack developer olarak girdikten sonra büyük projeler yapmaya başardım. Şuan planlarımı genişletmek adına Istanbul'a taşınmak için fırsat arıyorum."
+    "about_me": "عني",
+    "des": "مبرمج سوري بخبرة مهنية حوالي السنتين, أستمتع بتصميم بنى تحتية متينة للمشاريع الضخمة التي تتطلب تخطيط و تحضير كبيرين. درست و تخرجت من تركيا و بدأت بالعمل في أضنة التركية. طبعاً لدي الكثير من الطموحات و سأقوم بنشر بعض الدروس و المحتوى البرمجي المتقدم في هذه المدونة, فلمحبي البرمجة أنصحكم بالمتابعة باستمرار."
   },
   "skills":{
-    "my_skills": "Yeteneklerim"
+    "my_skills": "المهارات"
   },
   "projects":{
-    "my_projects": "Projelerim",
+    "my_projects": "المشاريع",
     "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
     "cpython": "This project is other's project. I use another request to get repo's information.",
     "familycode": "This is another project."
   },
   "career":{
-    "my_career": "İş Tecrübem",
+    "my_career": "المسيرة المهنية",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
@@ -44,10 +44,10 @@
     "college_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "المدونة"
   },
   "link":{
-    "link": "Link",
+    "link": "روابط",
     "view": "views"
   }
 

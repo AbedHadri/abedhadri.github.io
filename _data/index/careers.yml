@@ -1,29 +1,41 @@
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: KeySoft
+    i18n: company_ks
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Working on complex and on larger scale projects started in this company for me. more than 30 years in software industry meant alot of experince to be added to me. Java with spring and JAX-RS frameworks in addition to Angular 4 were only some of technologies I could learn.
+    i18n: company_ks_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Aug. 2016
+    i18n: company_ks_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Full Stack Developer
+    i18n: company_ks_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Sentio Sports Analytics
+    i18n: company_ssa
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Working as an intern in this international company was a great opportunity to give a great push to my skills and knowledge. I could have so much valuable knowledge and add it too my toolbox.
+    i18n: company_ssa_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Aug. 2016
+    i18n: company_ssa_date
   job:
     detail: Full Stack Developer
-    i18n: company_b_job
+    i18n: company_ssa_job
+  icon: fa-plus-square
+
+- name:
+    detail: ART software
+    i18n: company_art
+  desc:
+    detail: Working in ART software was the beginning in software industry for me. PHP , CSS and HTML in addition to simple JS where the technologies where used to give the first spark to my career.
+    i18n: company_art_desc
+  date:
+    detail: Jan. 2016
+    i18n: company_art_date
+  job:
+    detail: Web Developer
+    i18n: company_art_job
   icon: fa-plus-square
