@@ -1,19 +1,20 @@
 - name: KeyBusiness
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: abedhadri
+  repo: keybusiness
+  img: /static/assets/img/landing/keybusiness.png
+  desc: A web ERP project that was built using Java Spring-Boot , Hibernate , MySQL database and Angular 4 on the frontend.
 
 - name: MCS Group Paracent
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: keysoftAdana
+  repo: keysoft-bayimatik
+  img: /static/assets/img/landing/paracent.png
+  desc: A network marketing project with sales , profit sharing .. etc. It was built with Java Jersey , MySQL as a database and JQuery + vanilla JS on the frontend.
 
-- name: Google
+- name: WhereRU
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  gh_user: ozgekaplan
+  repo: WhereRU
+  img: /static/assets/img/landing/wru.png
+  desc: An android application to locate contacts and specifically children. built with Java Jersey and MySQL on the database in addition to Android(Java).

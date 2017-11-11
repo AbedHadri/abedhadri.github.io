@@ -8,5 +8,5 @@
 - locale: en
   flag: /static/assets/img/flags/United-States.png
 
-- locale: ar
-  flag: /static/assets/img/flags/Syria.png
+# - locale: ar
+#   flag: /static/assets/img/flags/Syria.png

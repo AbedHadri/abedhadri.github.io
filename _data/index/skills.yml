@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Spring-Boot, Hibernate, MySQL, Angular 4, JS, Scala, Sleeping
-percentage: 70, 70, 65, 80, 70, 40, 10
+aspects: Spring-Boot, Hibernate, MySQL, Angular 4, JS, Scala, Sleeping, HTML&CSS, PHP
+percentage: 70, 70, 65, 80, 70, 40, 10, 80, 50
