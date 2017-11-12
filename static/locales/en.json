@@ -20,9 +20,9 @@
   },
   "projects":{
     "my_projects": "Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "keybusiness": "A web ERP project that was built using Java Spring-Boot , Hibernate , MySQL database and Angular 4 on the frontend.",
+    "paracent": "A network marketing project with sales , profit sharing .. etc. It was built with Java Jersey , MySQL as a database and JQuery + vanilla JS on the frontend.",
+    "wru": "An android application to locate contacts and specifically children. built with Java Jersey and MySQL on the database in addition to Android(Java)."
   },
   "career":{
     "my_career": "Career",
