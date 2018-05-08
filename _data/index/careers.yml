@@ -1,4 +1,18 @@
 - name:
+    detail: Cimri.com
+    i18n: company_cc
+  desc:
+    detail: Working on one of the most technically advanced projects in Turkey built with a set of modern technologies to provide the best possible performance with the highest availability. Taking part in one of the most talented teams in Turkey is the greatest achievement here.
+    i18n: company_cc_desc
+  date:
+    detail: Jan. 2018
+    i18n: company_cc_date
+  job:
+    detail: Backend Developer
+    i18n: company_cc_job
+  icon: fa-plus-square
+
+- name:
     detail: KeySoft
     i18n: company_ks
   desc:
